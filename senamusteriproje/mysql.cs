@@ -15,7 +15,7 @@ namespace senamusteriproje
         public static string Conn_String
         {
             get {
-                return $"server=93.89.225.112;username=pehozgun_admina;password=Admin5050;database=pehozgun_verita";
+                return $"server=**.**.***.***;username=username;password=password;database=databasename";
                 }
         }
 
